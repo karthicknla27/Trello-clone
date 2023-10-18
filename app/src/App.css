@@ -1,0 +1,85 @@
+body {
+  background-color: #2970a2;
+  color: #fff;
+}
+blockquote {
+  background-color: #fff;
+}
+.taskDiv {
+  margin: 8px;
+  padding: 10px 8px;
+  background-color: #e4e3e4;
+  color: #333;
+  border-radius: 8px;
+}
+/* .App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: #f4f5f7;
+}
+
+.board {
+  display: flex;
+}
+
+.list {
+  background-color: #ebecf0;
+  margin-right: 10px;
+  border-radius: 5px;
+  min-width: 250px;
+  padding: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+}
+
+.list h2 {
+  font-size: 18px;
+  margin: 0 10px 10px 10px;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 0 0 10px 0;
+  padding: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.card:hover {
+  background-color: #f3f3f3;
+}
+
+.add-card-form {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.add-card-form input {
+  flex: 1;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.add-card-form select {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.add-card-form button {
+  padding: 5px 10px;
+  background-color: #61bd4f;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} */
