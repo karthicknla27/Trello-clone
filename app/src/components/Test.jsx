@@ -117,6 +117,7 @@ function App() {
                 <button onClick={() => dispatch({ type: 'ADD_CARD', payload: { listId: list.id, cardContent: 'New Task' } })}>
                   Add Card
                 </button>
+                <div></div>
               </div>
             )}
           </div>
